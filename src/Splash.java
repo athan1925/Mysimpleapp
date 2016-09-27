@@ -4,7 +4,7 @@ import com.thehowtotutorial.splashscreen.JSplash;
 public class Splash {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO New Commit
 		try{
 			JSplash splash = new JSplash(Splash.class.getResource("java.png"), true, true, false, null, null, Color.RED, Color.BLACK);
 			splash.splashOn();
